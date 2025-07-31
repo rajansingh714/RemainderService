@@ -18,7 +18,7 @@ const serverSetup = () => {
         app.listen(PORT, () => {
             console.log(`server is running at ${PORT}`);    
 
-            jobs();
+            // jobs();
             // sendBasicEmail(
             //     'support@admin.com',
             //     'kumarrajansingh49@gmail.com',
